@@ -21,3 +21,4 @@ public class HelloServlet extends HttpServlet{
 }
 
 //second fix tomcat problme, but didnt success, today is so difficult, hope tomorrow will be better.
+//FEB 27 renew eclipse can run server, Bravo !!!!
